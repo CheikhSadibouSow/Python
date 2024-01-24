@@ -1,0 +1,2 @@
+from mesFonctions import *
+menu()
